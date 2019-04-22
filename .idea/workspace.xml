@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="196d605b-0c0e-49fa-8d8b-8da503bd6dcb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/person/demo/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/person/demo/controller/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/person/demo/controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/person/demo/controller/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo.war.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo.war.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/demo/WEB-INF/classes/com/person/demo/controller/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/demo/WEB-INF/classes/com/person/demo/controller/PersonController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -84,7 +87,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/person/demo/controller/PersonController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
+            <state relative-caret-position="-30">
               <caret line="132" column="70" selection-start-line="132" selection-start-column="70" selection-end-line="132" selection-end-column="70" />
             </state>
           </provider>
@@ -221,7 +224,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555966939012" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555967181632" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../webapp_consumer" />
@@ -297,7 +300,7 @@
       <workItem from="1554213688800" duration="548000" />
       <workItem from="1554293180531" duration="528000" />
       <workItem from="1555883176734" duration="7849000" />
-      <workItem from="1555960011583" duration="4165000" />
+      <workItem from="1555960011583" duration="4411000" />
     </task>
     <task id="LOCAL-00001" summary="ASDF">
       <created>1555966304699</created>
@@ -313,15 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1555966585705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ASDF">
+      <created>1555966972925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555966972925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21486000" />
+    <option name="totallyTimeSpent" value="21732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.20752628" />
@@ -334,7 +343,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4908108" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4908108" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,7 +359,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.1936912" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.1936912" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="CodeMR" order="6" />
@@ -528,7 +537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/person/demo/controller/PersonController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
+        <state relative-caret-position="-30">
           <caret line="132" column="70" selection-start-line="132" selection-start-column="70" selection-end-line="132" selection-end-column="70" />
         </state>
       </provider>
