@@ -49,7 +49,7 @@ podTemplate(
                 //echo "files: ${files}"
                 echo "ws: ${ws}"
                 // sh "docker build -t csye7374 ."
-                docker.withRegistry('https://564889057429.dkr.ecr.us-east-1.amazonaws.com/csye7374', 'ecr:us-east-1:awskey') {
+                docker.withRegistry('https://921902363142.dkr.ecr.us-east-1.amazonaws.com/csye7374', 'ecr:us-east-1:awskey') {
 
                     //build image
                     def customImage = docker.build("csye7374")
@@ -63,7 +63,7 @@ podTemplate(
         stage('Update Kubernetes') {
             container('kubectl') {
                 //sh "kubectl rolling-update csye7374 --image-pull-policy Always --image csye7374=564889057429.dkr.ecr.us-east-1.amazonaws.com/csye7374:${commitId}"
-                sh "kubectl set image deployment csye7374 csye7374=564889057429.dkr.ecr.us-east-1.amazonaws.com/csye7374:${commitId}"
+                sh "kubectl set image deployment csye7374 csye7374=921902363142.dkr.ecr.us-east-1.amazonaws.com/csye7374:${commitId}"
             }
         }
 
