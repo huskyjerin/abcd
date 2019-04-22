@@ -130,7 +130,7 @@ public class PersonController {
     public String getPing() {
         logger.info("-=-=--==INTO THE PING() method-=-=--=-=-");
         myOperationCounterSuccess.increment();
-        return "You have hit the Ping Service kkkkkkkkkkkkkkkkkkkkkkkk.";
+        return "You have hit the Ping Serviceasasasasdddd ffff.";
     }
 
     @GetMapping("/greet/{user}")
